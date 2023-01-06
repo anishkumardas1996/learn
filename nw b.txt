@@ -1,0 +1,39 @@
+lan - local area network
+WAN - wide area network
+MAN - metropolitan area network
+nat - network address translation - 
+firewall - 
+dmz - demeliterised zone
+port - 
+port forwarding
+patches
+subnet
+gateway
+bridge
+nic 
+hub
+switch
+router
+loop back ip
+proxy and reverse proxy
+process vs thread
+RAID - Redundant array of indipendent disk / redundart array of inexpensive disk- 
+DNS
+DHCP 
+TCP/IP
+classes of IP address
+OCI layers
+registry and services
+ADDS & LDAP
+ntfs vs fat - 
+partition tables (gpt vs mbr) ......... gpt ---> GUID partition table ....... mbr ---> master boot record
+bios vs uefi - unified extensible firmware interface
+
+MBSA- - Microsoft Baseline Security Analyzer 2.3
+
+
+
+
+
+A
+a
