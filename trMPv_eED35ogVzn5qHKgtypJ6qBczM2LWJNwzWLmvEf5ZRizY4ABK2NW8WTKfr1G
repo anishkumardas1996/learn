@@ -1,0 +1,86 @@
+[33mcommit 07f9023814de7125bd996ca70ba551a6d86f666a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: anishkumardas1996 <anishkumardas1996@gmail.com>
+Date:   Fri Jan 6 16:53:34 2023 +0530
+
+    First bulk commit trial
+
+[1mdiff --git a/enrolment number.txt b/enrolment number.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e2f8dd5[m
+[1m--- /dev/null[m
+[1m+++ b/enrolment number.txt[m	
+[36m@@ -0,0 +1,16 @@[m
+[32m+[m[32mWelcome to India's Super Brain 2.0[m[41m[m
+[32m+[m[32mWe are thrilled to inform you that you have successfully gained access to the 2nd Edition of India’s most revolutionary Competition - India’s Super Brain 2021 Your participation is a matter of immense pride to us. We look forward to your active association . Remember India's Super Brain is a Leader-Board driven Competition and the members with most points get the Top Most Ranks.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mFor your reference here are your details mentioned below:[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mEnrollment ID - ABISB02G4Z9Et23hazYeq[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mName - Anish Kumar Das[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mEmail - anishkumardas1996@gmail.com[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMobile - 8583870731[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mYou know the drill, don’t miss out Dashboard section for you guys, which you can access for 2021 edition from 30th November, 2020 by logging in using your registered email ID as Login, and your enrolment ID as password. Till then take feel of our first edition's content and learn from there. We will keep in touch with you till then.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mPlease email us at - isb@alienbrains.in for any concerns or queries[m[41m[m
+[1mdiff --git a/i have to acheive this within next year.jpg b/i have to acheive this within next year.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1429519[m
+Binary files /dev/null and b/i have to acheive this within next year.jpg differ
+[1mdiff --git a/i have to achieve this within next three years.jpg b/i have to achieve this within next three years.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f83a3b3[m
+Binary files /dev/null and b/i have to achieve this within next three years.jpg differ
+[1mdiff --git a/i have to achive this by dec 2022type-d14---3-bed---1869-sq-ft.jpeg b/i have to achive this by dec 2022type-d14---3-bed---1869-sq-ft.jpeg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ed31ebd[m
+Binary files /dev/null and b/i have to achive this by dec 2022type-d14---3-bed---1869-sq-ft.jpeg differ
+[1mdiff --git a/nw b.txt b/nw b.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..31ca603[m
+[1m--- /dev/null[m
+[1m+++ b/nw b.txt[m	
+[36m@@ -0,0 +1,39 @@[m
+[32m+[m[32mlan - local area network[m[41m[m
+[32m+[m[32mWAN - wide area network[m[41m[m
+[32m+[m[32mMAN - metropolitan area network[m[41m[m
+[32m+[m[32mnat - network address translation -[m[41m [m
+[32m+[m[32mfirewall -[m[41m [m
+[32m+[m[32mdmz - demeliterised zone[m[41m[m
+[32m+[m[32mport -[m[41m [m
+[32m+[m[32mport forwarding[m[41m[m
+[32m+[m[32mpatches[m[41m[m
+[32m+[m[32msubnet[m[41m[m
+[32m+[m[32mgateway[m[41m[m
+[32m+[m[32mbridge[m[41m[m
+[32m+[m[32mnic[m[41m [m
+[32m+[m[32mhub[m[41m[m
+[32m+[m[32mswitch[m[41m[m
+[32m+[m[32mrouter[m[41m[m
+[32m+[m[32mloop back ip[m[41m[m
+[32m+[m[32mproxy and reverse proxy[m[41m[m
+[32m+[m[32mprocess vs thread[m[41m[m
+[32m+[m[32mRAID - Redundant array of indipendent disk / redundart array of inexpensive disk-[m[41m [m
+[32m+[m[32mDNS[m[41m[m
+[32m+[m[32mDHCP[m[41m [m
+[32m+[m[32mTCP/IP[m[41m[m
+[32m+[m[32mclasses of IP address[m[41m[m
+[32m+[m[32mOCI layers[m[41m[m
+[32m+[m[32mregistry and services[m[41m[m
+[32m+[m[32mADDS & LDAP[m[41m[m
+[32m+[m[32mntfs vs fat -[m[41m [m
+[32m+[m[32mpartition tables (gpt vs mbr) ......... gpt ---> GUID partition table ....... mbr ---> master boot record[m[41m[m
+[32m+[m[32mbios vs uefi - unified extensible firmware interface[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMBSA- - Microsoft Baseline Security Analyzer 2.3[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mA[m[41m[m
+[32m+[m[32ma[m
+\ No newline at end of file[m
